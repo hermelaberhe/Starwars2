@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Star Wars API Project
 
 ## Read Me
@@ -27,3 +28,6 @@ Clicking on "News + Features" in the application's navigation menu will smoothly
 All links within the "Latest News + Features" section and the social media links in the footer are functional and will take you to the respective external pages. Feel free to explore the latest news and connect with us on social media.
 
 ## 6. you can open the site using "HTTP-server" or through Live server
+=======
+# Starwars2
+>>>>>>> a2224cdb0c7b16dcc518543000f59586b3adf035
